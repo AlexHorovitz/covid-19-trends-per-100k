@@ -1,4 +1,7 @@
 # covid-19-trends-per-100k
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## What is this?
 
@@ -24,3 +27,22 @@ Created using [Plotly.js](https://plot.ly/javascript/) and [Vue.js](https://vuej
 ## License 
 Code in this repository which is not otherwise licensed is licensed under the Unlisence License; see [LICENSE.txt](LICENSE.txt) for complete text.
 
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="http://alexhorovitz.com"><img src="https://avatars0.githubusercontent.com/u/448281?v=4" width="100px;" alt=""/><br /><sub><b>Alex Horovitz</b></sub></a><br /><a href="https://github.com/AlexHorovitz/covid-19-trends-per-100k/commits?author=alexhorovitz" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!

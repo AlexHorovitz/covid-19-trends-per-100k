@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "alexhorovitz",
+      "name": "Alex Horovitz",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/448281?v=4",
+      "profile": "http://alexhorovitz.com",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "covid-19-trends-per-100k",
+  "projectOwner": "AlexHorovitz",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
