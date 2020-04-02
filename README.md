@@ -32,6 +32,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
+    <td align="center"><a href="https://alexhorovitz.com"><img src="https://avatars0.githubusercontent.com/u/448281?s=96&v=4" width="100px;" alt=""/><br /><sub><b>Alex Horovitz</b></sub></a><br /><a href="https://github.com/alexhorovitz/covid-19-trends-per-100k/commits?author=alexhorovitz" title="Code">💻</a></td>
     <td align="center"><a href="https://aatishb.com"><img src="https://avatars2.githubusercontent.com/u/1878638?v=4" width="100px;" alt=""/><br /><sub><b>Aatish Bhatia</b></sub></a><br /><a href="https://github.com/aatishb/covidtrends/commits?author=aatishb" title="Code">💻</a></td>
     <td align="center"><a href="http://www.professormoose.com"><img src="https://avatars0.githubusercontent.com/u/22178?v=4" width="100px;" alt=""/><br /><sub><b>Mustafa "Moose" Paksoy</b></sub></a><br /><a href="#maintenance-mustpax" title="Maintenance">🚧</a></td>
   </tr>
