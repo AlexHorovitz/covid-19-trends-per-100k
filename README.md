@@ -22,6 +22,5 @@ Created using [Plotly.js](https://plot.ly/javascript/) and [Vue.js](https://vuej
 
 
 ## License 
-
 Code in this repository which is not otherwise licensed is licensed under the Unlisence License; see [LICENSE.txt](LICENSE.txt) for complete text.
 
