@@ -385,10 +385,12 @@ let app = new Vue({
 
       if (selectedData == 'Confirmed All Counties') {
        Plotly.d3.csv("https://raw.githubusercontent.com/alexhorovitz/covid-19-trends-per-100k/master/data/time_series_covid19_confirmed_US_all_100k.csv", this.processData);
+       this.selectedcounties = ['California San Mateo', 'California San Francisco', 'New York New York', 'New York Westchester', 'California Alameda', 'Massachusetts Middlesex']
       }  else if (selectedData == 'Confirmed Top 60 Counties') {
        Plotly.d3.csv("https://raw.githubusercontent.com/alexhorovitz/covid-19-trends-per-100k/master/data/time_series_covid19_confirmed_US_top60counties_100k.csv", this.processData);
       } else if (selectedData == 'Reported Deaths Top 60 Counties') {
-       Plotly.d3.csv("https://raw.githubusercontent.com/alexhorovitz/covid-19-trends-per-100k/master/data/time_series_covid19_confirmed_US_top60counties_100k.csv", this.processData);
+       Plotly.d3.csv("https://raw.githubusercontent.com/alexhorovitz/covid-19-trends-per-100k/master/data/time_series_covid19_deaths_US_top60counties_100k.csv", this.processData);
+       this.selectedcounties = ['New York Suffolk', 'New York Westchester', 'New York New York', 'Michigan Wayne', 'Michigan Oakland']
       }
     },
 /*
@@ -618,7 +620,7 @@ else if (selectedData == 'Reported Deaths All Counties') {
 
     isHidden: true,
 
-    selectedcounties: ['California Alameda', 'California San Francisco', 'New York New York', 'Massachusetts Middlesex', 'California Los Angeles', 'Florida Miami Dade'],
+    selectedcounties: ['Arizona Maricopa', 'California Los Angeles', 'New York New York', 'California San Diego', 'California Orange', 'Illinois Cook'],
 
     graphMounted: false,
 
